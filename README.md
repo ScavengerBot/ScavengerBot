@@ -15,7 +15,7 @@ My master builders have built a secure platform that will allow you to enjoy the
 
 <br>
 
-[![IMAGE ALT TEXT HERE](https://lh6.googleusercontent.com/H8FdKeuiHUaQrMZNR-3cL3mjAlZ_wXnxE8nrZnu0fX5u748KWZrqIDbXgrBQyMJoG7Z0tR-0it-Zlg=w1920-h990)](https://www.youtube.com/watch?v=UfnJbuR8bYs)
+[![IMAGE ALT TEXT HERE](https://lh5.googleusercontent.com/bVcZQHYDjaI3jOMiMCL_Fknw_-iXutBfejiLHP32bEwgDni4xe4mbyewuMLFX_69EffBN-S_XcTeug=w1920-h990)](https://www.youtube.com/watch?v=UfnJbuR8bYs)
 
 
 ### Important Links.
