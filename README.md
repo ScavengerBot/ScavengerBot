@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://lh4.googleusercontent.com/GtNR5Py2yx1GzY9G1JLnBIp_DK2HjwDubzUWlke_IsOUk38wMZKlhiRloCoORGwg8fK-0tBWQVG4Og=w1920-h990)](https://www.scavengerbot.io/)
+[![IMAGE ALT TEXT HERE](https://lh5.googleusercontent.com/wLerfi9T66DMWAs5gr1SkOqrsPePMx_uRoWtxJWFjPo55BY9OVkcA7V0zMukXWHCmPGtqgflQhrg_w=w1920-h990)](https://www.scavengerbot.io/)
 
 ## Scavenger Bot | The world’s most reliable market making trading bot for cryptocurrency.
 Hi, I am the [Scavenger Bot](https://www.scavengerbot.io/), a Market Maker Bot. You can stop worrying about trends or if BTC will rise or fall. My only job is to make profitable trades regardless of Bitcoin’s current price.
