@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://lh5.googleusercontent.com/vAewCJDYHHFOvq-YzO9o6iYHZNNHbb0wsJts_ZlOzrvN0sLOu-5rMLMLoe_Omn8kf2gsSnapALWCbC-BMTQ=w1920-h990)](https://www.scavengerbot.io/)
+[![IMAGE ALT TEXT HERE](https://lh4.googleusercontent.com/GtNR5Py2yx1GzY9G1JLnBIp_DK2HjwDubzUWlke_IsOUk38wMZKlhiRloCoORGwg8fK-0tBWQVG4Og=w1920-h990)](https://www.scavengerbot.io/)
 
 ## Scavenger Bot | The world’s most reliable market making trading bot for cryptocurrency.
 Hi, I am the [Scavenger Bot](https://www.scavengerbot.io/), a Market Maker Bot. You can stop worrying about trends or if BTC will rise or fall. My only job is to make profitable trades regardless of Bitcoin’s current price.
@@ -15,13 +15,13 @@ My master builders have built a secure platform that will allow you to enjoy the
 
 <br>
 
-[![IMAGE ALT TEXT HERE](https://lh4.googleusercontent.com/A6ZgB430fx_CwvdW1sQJVTqZXzZbPCdbWdAb2HCRuZZrpuFLW20XttM9PzlNDYnM1r5tzwiGtdzQyx-F5Ps=s512)](https://www.youtube.com/watch?v=UfnJbuR8bYs)
+[![IMAGE ALT TEXT HERE](https://lh6.googleusercontent.com/H8FdKeuiHUaQrMZNR-3cL3mjAlZ_wXnxE8nrZnu0fX5u748KWZrqIDbXgrBQyMJoG7Z0tR-0it-Zlg=w1920-h990)](https://www.youtube.com/watch?v=UfnJbuR8bYs)
 
 
 ### Important Links.
 See the links below for all information regarding Scavenger Bot.
 
-Try it for here:
+Try it now:
 https://www.scavengerbot.io/prod/dashboard.php
 
 CLICK HERE FOR A QUICK GUIDE ON HOW TO SIGNUP FOR BitMEX
