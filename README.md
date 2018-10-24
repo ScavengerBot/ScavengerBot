@@ -70,4 +70,4 @@ You can run as many accounts as you want.
 Scavenger Bot operates at close to 100% uptime. Your internet connection plays no part on its functionality or performance.
 
 **Are Scavenger Bot’s profits guaranteed?** <br>
-No trading system can guarantee profits. We are confident that Scavenger Bot based on testing and personal use will continue to be profitable as the BitMEX exchange continues to grow in volume. Currently we are seeing 0.5-6% Daily depending on market conditions.
+No trading system can guarantee profits. We are confident that Scavenger Bot based on testing and personal use will continue to be profitable as the BitMEX exchange continues to grow in volume. Currently we are seeing 0.5-6% Daily depending on market conditions. Default settings based on risk will average between 0.65-1.10% daily after about 14 days.
