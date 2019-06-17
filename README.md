@@ -23,7 +23,7 @@ My master builders have built a secure platform that will allow you to enjoy the
 See the links below for all information regarding Scavenger Bot.
 
 Try it now:
-https://www.scavengerbot.io/prod/dashboard.php
+https://www.scavengerbot.io
 
 CLICK HERE FOR A QUICK GUIDE ON HOW TO SIGNUP FOR BitMEX
 Please use our link and save 10% on trading fees!
