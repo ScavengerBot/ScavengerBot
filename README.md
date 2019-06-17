@@ -27,7 +27,7 @@ See the links below for all information regarding Scavenger Bot.
 
 https://www.scavengerbot.io
 
-### CLICK HERE FOR A QUICK GUIDE ON HOW TO SIGNUP FOR BitMEX:
+### Quick setup guide for new BitMEX accounts:
 
 http://gnomegarden.io/bitmex-setup/
 
