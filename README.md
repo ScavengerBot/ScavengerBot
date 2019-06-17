@@ -20,19 +20,23 @@ My master builders have built a secure platform that will allow you to enjoy the
 
 
 ### Important Links.
+
 See the links below for all information regarding Scavenger Bot.
 
-Try it now:
+## Try it now:
+
 https://www.scavengerbot.io
 
-CLICK HERE FOR A QUICK GUIDE ON HOW TO SIGNUP FOR BitMEX
-Please use our link and save 10% on trading fees!
+## CLICK HERE FOR A QUICK GUIDE ON HOW TO SIGNUP FOR BitMEX:
+
 http://gnomegarden.io/bitmex-setup/
 
-Become an Affiliate:
+## Become an Affiliate:
+
 https://affiliate.scavengerbot.io/
 
-Follow us:
+## Follow us:
+
 https://www.youtube.com/channel/UCcJgoV7LHcx4OVsgzG2mHLw
 
 https://medium.com/@thescavengerbot
