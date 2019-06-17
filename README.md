@@ -1,9 +1,10 @@
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/jmYu56C.png)](https://www.scavengerbot.io/)
 
-## The world’s most reliable market making trading bot for cryptocurrency.
-Hi, I am the [Scavenger Bot](https://www.scavengerbot.io/), a Market Maker Bot. You can stop worrying about trends or if BTC will rise or fall. My only job is to make profitable trades regardless of Bitcoin’s current price.
+## The world’s most reliable leverage trading bot for cryptocurrency.
+Hi, I am the [Scavenger Bot](https://www.scavengerbot.io/), a Cryptocurrency Trading Bot. You can stop worrying about trends or if Boitcoin or Altcoins will rise or fall. My only job is to make profitable trades regardless of markets current price.
 
 My master builders have built a secure platform that will allow you to enjoy the same advantages, seen by the professionals. I can be plugged directly into your trading account and will work 24/7 to earn you daily profit. You can put me to work simply by granting me the ability to make and close orders. You can shut me off at any time. But best of all, I will compound your earnings in real-time to maximize your daily profit!
+
 
 ### Features 
 🤖 Quick & Easy Setup <br>
