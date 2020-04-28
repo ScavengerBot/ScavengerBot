@@ -1,0 +1,74 @@
+{
+  "name": "scav-test1",
+  "alias":"long test",
+  "active": true,
+  "archived": false,
+  "type": "long",
+  "exchange": "bybit",
+  "host": "betabot01",
+  "image": "scrapper.png",
+  "logLevel": "INFO",
+  "status": "running",
+  "strategy": "marketMaker",
+  "authExpires": "1588093115",
+  "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJURTNOa00yTVVZek16RTJOem...",
+  "balance": {
+    "totalBalence": 10610557,
+    "freeBalance": 2260293,
+    "realisedPNL": -97,
+    "unrealisedPNL": 190270
+  },
+  "position": {
+    "entry": 7626.6,
+    "qty": 1264,
+    "leverage": "cross",
+    "profitOrderID": null,
+    "stopOrderID": null
+  },
+  "health": [],
+  "settings": {
+    "contractSize": {
+      "amount": 15,
+      "auto": true,
+      "interval": 1
+    },
+    "contractLimit": {
+      "enabled": true,
+      "percent": false,
+      "amount": 1000
+    },
+    "stoploss": {
+      "enabled": false,
+      "offset": 0,
+      "trailing": false
+    },
+    "takeProfit": {
+      "enabled": true,
+      "offset": 1,
+      "trailing": true
+    },
+    "dcaProtection": {
+      "enabled": true
+    },
+    "entryProtection": {
+      "enabled": true,
+      "overbought": 70,
+      "oversold": 30,
+      "interval": 60,
+      "prevention": false
+    },
+    "marketProtection": {
+      "enabled": true,
+      "maxChange": 0.5,
+      "interval": 60
+    },
+    "smartChannelProtection": {
+      "enabled": false,
+      "boundary": 50,
+      "limit": 100,
+      "interval": 60
+    }
+  },
+  "createdAt": "2019-12-31 04:25:17",
+  "updatedAt": "2020-04-28 01:40:20"
+}
